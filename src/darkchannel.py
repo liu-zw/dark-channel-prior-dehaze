@@ -44,7 +44,7 @@ def deHaze(img, t=0.1):
     return J
 
 if __name__ == "__main__":
-    img = io.imread("./tiananmen.jpg")[:,:,:3]/255.0
+    img = io.imread("./img/tiananmen.jpg")[:,:,:3]/255.0
     dehaze = deHaze(img)
     io.imshow(img)
     io.show()
