@@ -1,2 +1,2 @@
-# dark-channel-prior-dehaze
-Dark Channel Prior deHaze
+# dark-channel-prior-dehazing
+Dark Channel Prior deHazing
